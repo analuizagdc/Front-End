@@ -30,9 +30,8 @@ html body{ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sa
 .line {
     width: 100%;
     height: 0.090rem;
-    background-color: rgb(255, 255, 255);
+    background-color: black;
     transition: transform 1s;
-    color: black;
 }
       
 .show-menu #line1 {
