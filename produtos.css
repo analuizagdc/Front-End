@@ -32,6 +32,7 @@ html body{ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sa
     height: 0.090rem;
     background-color: rgb(255, 255, 255);
     transition: transform 1s;
+    color: black;
 }
       
 .show-menu #line1 {
