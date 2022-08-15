@@ -289,7 +289,7 @@ body{ font-family: 'Lato',sans-serif;
 }
 .img-6 p{
     position: absolute;
-    bottom: -4rem;
+    bottom: -5.9rem;
     left: -1rem;
     font-size: 1.4rem;
     font-weight: bolder;
@@ -297,5 +297,5 @@ body{ font-family: 'Lato',sans-serif;
     margin-bottom: .8rem;
     padding: 1rem;
     display: grid;
-    grid-template-columns: 290px ;
+    grid-template-columns: 250px ;
 }
